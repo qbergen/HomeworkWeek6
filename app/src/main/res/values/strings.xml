@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CueSays</string>
+    <string name="currentRound">3</string>
+    <string name="Restart">roundNumber</string>
+</resources>
